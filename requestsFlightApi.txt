@@ -1,0 +1,7 @@
+http://localhost:1477/api/flights
+
+http://localhost:1477/api/cheapestFlight
+
+http://localhost:1477/api/ticket (Returns a response that show the flight on which a ticket has ben booked or canceled)
+
+http://localhost:1477/api/Booking/5 (Books a ticket on a given flight, e.g. flight 5)

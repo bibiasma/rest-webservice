@@ -1,0 +1,1 @@
+<Flights xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/FlightApplication.Models"><Price>400</Price><bookingLink>http://localhost:1477/api/Booking/7</bookingLink><dt>2013-10-02T21:30:00</dt><flightId>7</flightId><flightName>MAH7</flightName><ticketAvailability>9</ticketAvailability></Flights>
